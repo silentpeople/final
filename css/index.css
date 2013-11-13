@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* */
+
+body {
+  background:#9BE6EE;
+  font-family: Georgia;
+  font-size: 12px;
+  margin-top: 50px;
+}
+
+#container {
+	width: 800px;
+	min-height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #fdfdfd;
+	border: 1px solid #ccc;
+	padding: 15px;
+}
+
+#menu {
+  width: 800px;
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+#footer {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  color: #777;
+}
+
+input {
+  font-family: Georgia;
+  font-size: 12px;
+}
+
+.right {
+  display: inline;
+  float: right;
+}
+
+#content 
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding: 15px;
+	color:#777;
+	
+	
+}
+
